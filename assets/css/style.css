@@ -1,0 +1,251 @@
+body {
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url(http://www.toptal.com/designers/subtlepatterns/patterns/qbkls.png);
+} 
+
+
+div#header {
+    background: white;
+    width: 100%;
+    height: 70px;
+    border: 1px solid #cccccc
+}
+
+header {
+    width: 960px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+h1 {
+    width: 200px;
+    height: 70px;
+    float: left;
+    line-height: 70px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin: 0px;
+    background: #4aaaa5;
+    color: white;
+    font-size: 25px
+}
+
+#nav {
+    float: right;
+    height: 70px;
+    width: 300px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+td {
+    color: #777777
+}
+
+section#main {
+    width: 960px;
+    margin: 40px auto;
+    border: 1px solid black;
+    height: 550px;
+    background: white;
+    border: 1px solid #dddddd
+}
+
+.about{
+    background: white;
+    color: #4aaaa5;
+    border-bottom: 1px solid #cccccc;
+    width: 920px;
+    margin-left: 20px;
+    height: 70px;
+}
+
+h1.about{
+    text-align: left;
+}
+
+.detail {
+    height: 450px;
+    width: 920px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.cf {
+    clear: both;
+    overflow: auto;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 0px;
+    float: left;
+    margin-right: 15px;
+}
+
+p {
+    color:#777777
+}
+
+form {
+    margin-left: 0px;
+    height: 450px;
+    font-size: 16px;
+}
+
+input{
+    width: 910px;
+    height: 30px;
+}
+
+.detail {
+    color: #777777;
+}
+
+input {
+    color: #777777
+}
+
+[name="message"] {
+    height: 150px;
+}
+
+button#button2{
+    height: 40px;
+    width: 90px;
+    background: #4aaaa5;
+    color: white;
+    font-size: 16px;
+}
+
+
+
+/* pics {
+    height: 450px;
+    width: 920px;
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+img {
+    height: 150px;
+    width: 200px;
+}
+
+img.grass{
+    margin-left: 20px;
+}
+
+img.fire{
+    margin-left: 80px;
+}
+
+img.legend{
+    margin-left: 20px;
+}
+
+img.legendary{
+    margin-left: 80px;
+}
+
+img.electric{
+    margin-left: 20px;
+}  */
+
+
+td#cell1{
+    background-image: url("../images/bulbasaur.png");
+    background-repeat: no-repeat;
+    background-size: 160px;
+    padding: 5px 20px 0 20px;
+  
+}
+
+td#cell2{
+    background-image: url("../images/charmander.png");
+    background-repeat: no-repeat;
+    background-size: 140px;
+    padding: 5px 20px 0 20px;
+}
+
+td#cell3{
+    background-image: url("../images/mewtwo.png");
+    background-repeat: no-repeat;
+    background-size: 140px;
+    padding: 5px 20px 0 20px;
+}
+
+td#cell4{
+    background-image: url("../images/mew.png");
+    background-repeat: no-repeat;
+    background-size: 140px;
+    padding: 5px 20px 0 20px;
+    
+}
+
+td#cell5{
+    background-image: url("../images/pikachu.png");
+    background-repeat: no-repeat;
+    background-size: 140px;
+    padding: 5px 20px 0 20px;
+}
+
+p.table_text {
+    width: 160px;
+    height: 40px;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+
+/* .frow{
+    border: 1px solid black;
+    height: 120px;
+    margin: 30px 0 30px 0;
+}
+
+.srow{
+    border: 1px solid black;
+    height: 120px;
+    margin: 0 0 30px 0;
+}
+
+.trow{
+    border: 1px solid black;
+    height: 120px;
+    margin: 0 0 30px 0;
+} */
+
+div#footer {
+    background: #666666;
+    width: 100%;
+    height: 40px;
+    border: 1px solid #cccccc;
+    border-top: 10px solid #4aaaa5;
+    position: fixed;
+    bottom: 0px; 
+}
+
+footer{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 20px;
+} 
+
+
+
+
+
